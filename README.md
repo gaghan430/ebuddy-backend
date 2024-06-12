@@ -2,6 +2,7 @@
 
 ## Usage
 `pnpm install`
+
 `cp .env.sample .env`
 
 Important! Customize the following env according to your settings
